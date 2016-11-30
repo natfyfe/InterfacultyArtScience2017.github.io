@@ -1,4 +1,4 @@
 # InterfacultyArtScience2017.github.io
 
-|Webpage Structure and file repository|
+| Webpage Structure and file repository |
  
